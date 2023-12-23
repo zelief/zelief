@@ -1,8 +1,8 @@
 # Hey! I'm Ziya <img src="images/wave.gif" width="30px">
-I am a software developer working at [Kitafund](https://kitafund.com/).
+I am a software developer working at [Klu](http://klu.so/).
 
 For work I mainly use Next.js but in my spare time I am always trying out new things and experimenting with various technologies.
-I am currently really enjoying playing with React Native :smile:
+I am currently really enjoying playing with AI and search engines
 
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
