@@ -22,8 +22,6 @@ I am currently really enjoying playing with AI and search engines
 [<img src="https://github-readme-stats.vercel.app/api?username=zelief&include_all_commits=true&count_private=true&show_icons=true&theme=graywhite&custom_title=Github%20Stats" alt="Ziya's GitHub Stats" />][/]
 -->
 
-[<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelief&langs_count=3&theme=graywhite&custom_title=Top%203%20Public%20Languages" alt="Ziya's's Top 3 Public Languages"/>][/]
-
 [/]: https://github.com/zelief/
 [linkedin]: [https://kalvin.cc/](https://linkedin.com/in/ziyaelarief)
 [medium]: https://twitter.com/kalvinpearce/
